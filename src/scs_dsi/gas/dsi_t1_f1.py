@@ -6,9 +6,6 @@ Created on 27 May 2019
 https://github.com/south-coast-science/scs_dsi_t1_f1
 """
 
-import struct
-import time
-
 from scs_core.data.datum import Decode
 
 from scs_host.bus.i2c import I2C
